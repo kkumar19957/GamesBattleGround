@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "35182243833",
+    "firebase_url": "https://gamesbattleground-33bbb.firebaseio.com",
+    "project_id": "gamesbattleground-33bbb",
+    "storage_bucket": "gamesbattleground-33bbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35182243833:android:7d45092e9099105fd89728",
+        "android_client_info": {
+          "package_name": "com.example.gamesbattleground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35182243833-6u8l79je93n965h63l35aujnerdogkv7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gamesbattleground",
+            "certificate_hash": "3bd3058bb93628f98d78fe0ba2064953c5178c79"
+          }
+        },
+        {
+          "client_id": "35182243833-cf0h1ihlos25ilb1bqsvhhor0ar6m2p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtsEXSufqgPhpmDxiU4PIJ8XHGDA0tBJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35182243833-cf0h1ihlos25ilb1bqsvhhor0ar6m2p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
